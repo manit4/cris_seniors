@@ -1,0 +1,20 @@
+
+q	java:S106%"9Replace this use of System.out or System.err by a logger.(ôùªÆÿÿÿÿÿ8Ã¡‹Øš1Hû›RMAJORZ
+CODE_SMELL
+p	java:S125Š"<This block of commented-out lines of code should be removed.(¥•ÖÏ8Ý¡Øš1H‘›RMAJORZ
+CODE_SMELL
+d
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8€äàØš1Hµ¥RMINORZ
+CODE_SMELL
+{
+java:S1128"BRemove this unused import 'javax.imageio.spi.RegisterableService'.(½­¿Îþÿÿÿÿ8€äàØš1H·¥RMINORZ
+CODE_SMELL
+]	java:S131""Add a default case to this switch.(Ýõô£ùÿÿÿÿ8‘ÕåÕš1H‘šRCRITICALZ
+CODE_SMELL
+G
+java:S1220""Move this file to a named package.Hõ™RMINORZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(‘åÈ8‘ÕåÕš1HË›RMAJORZ
+CODE_SMELL
+o	java:S125."<This block of commented-out lines of code should be removed.(¥•ÖÏ8–¦ÞØš1H¤RMAJORZ
+CODE_SMELL

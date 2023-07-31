@@ -1,0 +1,36 @@
+import java.util.Scanner;
+
+public class UserUtility {
+	
+	void register() {
+		
+		
+	}
+	
+void login() {
+		
+		Scanner sc = new Scanner(System.in);
+
+		boolean loginFlag = true;
+
+		while (loginFlag) {
+
+			System.out.println("Enter your username!!");
+			String username = sc.next();
+
+			System.out.println("Enter your password!!");
+			String password = sc.next();
+
+			for (User user : users) {
+
+				if (user.getUsername().equals(username) && user.getPassword().equals(password)) {
+					System.out.println("Looged-In Successfully, welcome to NRIIT..");
+					loginFlag = false;
+				} else {
+					System.out.println("Logged-In Failed, please try again");
+				}
+			}
+		}
+	}
+
+}

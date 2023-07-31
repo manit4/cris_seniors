@@ -1,0 +1,26 @@
+
+t
+java:S6437"6Revoke and change this password, as it is compromised.(Ş„Ï‹úÿÿÿÿ8†’åÙš1H§RBLOCKERZVULNERABILITY
+G
+java:S1220""Move this file to a named package.HŠ§RMINORZ
+CODE_SMELL
+t	java:S125""<This block of commented-out lines of code should be removed.(ÉÈ£”ıÿÿÿÿ8„ÇŠÚš1H³§RMAJORZ
+CODE_SMELL
+t	java:S125"<This block of commented-out lines of code should be removed.(ÉÈ£”ıÿÿÿÿ8”»²Úš1HÊ¨RMAJORZ
+CODE_SMELL
+t	java:S125J"<This block of commented-out lines of code should be removed.(ÉÈ£”ıÿÿÿÿ8®ĞÉÚš1HÔªRMAJORZ
+CODE_SMELL
+ƒ
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ºªº¡ûÿÿÿÿ8İ»¸Úš1H©RBLOCKERZBUG
+q	java:S106"9Replace this use of System.out or System.err by a logger.(ƒñš²üÿÿÿÿ8ÚŠÁÚš1Hè©RMAJORZ
+CODE_SMELL
+t	java:S125l"<This block of commented-out lines of code should be removed.(ÉÈ£”ıÿÿÿÿ8Øÿ€Úš1H‘§RMAJORZ
+CODE_SMELL
+|
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ş„Ï‹úÿÿÿÿ8†’åÙš1H§RBLOCKERZBUG
+c
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8ÓİÌÚš1Hé«RMINORZ
+CODE_SMELL
+ˆ
+java:S1128	"TRemove this unused import 'javax.swing.text.html.HTMLDocument.HTMLReader.PreAction'.(µ³™î8ÓİÌÚš1Hë«RMINORZ
+CODE_SMELL

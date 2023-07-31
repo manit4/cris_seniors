@@ -1,0 +1,51 @@
+
+p	java:S125¡"<This block of commented-out lines of code should be removed.(ïá¿º8ˆªà™1H¿¨RMAJORZ
+CODE_SMELL
+p	java:S125Î"<This block of commented-out lines of code should be removed.(ïá¿º8¬æÓš1HËÑRMAJORZ
+CODE_SMELL
+G
+java:S1220""Move this file to a named package.Hí§RMINORZ
+CODE_SMELL
+p	java:S125Ä"<This block of commented-out lines of code should be removed.(Úñß¶8°ØáÒš1HŒ¾RMAJORZ
+CODE_SMELL
+p	java:S125’"<This block of commented-out lines of code should be removed.(ïá¿º8§“Èà™1Hî«RMAJORZ
+CODE_SMELL
+u	java:S125Œ"<This block of commented-out lines of code should be removed.(×õê¶üÿÿÿÿ8”‚âÓš1H•âRMAJORZ
+CODE_SMELL
+p	java:S125¸"<This block of commented-out lines of code should be removed.(¥•ÖÏ8ùÏšÑš1Hİ¯RMAJORZ
+CODE_SMELL
+p	java:S125Ø"<This block of commented-out lines of code should be removed.(ïá¿º8¦ÓóÔš1H¢…RMAJORZ
+CODE_SMELL
+p	java:S125"<This block of commented-out lines of code should be removed.(¥•ÖÏ8’½ÓÑš1HğµRMAJORZ
+CODE_SMELL
+o	java:S125B"<This block of commented-out lines of code should be removed.(ïá¿º8¦•Óš1HÈËRMAJORZ
+CODE_SMELL
+o	java:S125U"<This block of commented-out lines of code should be removed.(ËÿËæ8İ¤ÍÔš1HµíRMAJORZ
+CODE_SMELL
+p	java:S125ç"<This block of commented-out lines of code should be removed.(¥•ÖÏ8İƒ“Õš1Hè‰RMAJORZ
+CODE_SMELL
+p	java:S125ì"<This block of commented-out lines of code should be removed.(¥•ÖÏ8¯”Óš1HÎÅRMAJORZ
+CODE_SMELL
+p	java:S125ƒ"<This block of commented-out lines of code should be removed.(ïá¿º8ÈÀà™1Hˆ«RMAJORZ
+CODE_SMELL
+o	java:S1251"<This block of commented-out lines of code should be removed.(ïá¿º8‚˜²à™1Hü¨RMAJORZ
+CODE_SMELL
+p	java:S125Å"<This block of commented-out lines of code should be removed.(ïá¿º8Ü©¢Óš1H¯ÖRMAJORZ
+CODE_SMELL
+o	java:S125"<This block of commented-out lines of code should be removed.(¥•ÖÏ8“…ŠÓš1H‰ÇRMAJORZ
+CODE_SMELL
+p	java:S125²"<This block of commented-out lines of code should be removed.(ïá¿º8ëó™à™1Hü§RMAJORZ
+CODE_SMELL
+p	java:S125™"<This block of commented-out lines of code should be removed.(¥•ÖÏ8¤ØŒÑš1H¬¬RMAJORZ
+CODE_SMELL
+p	java:S125â"<This block of commented-out lines of code should be removed.(ïá¿º8 ¢İÔš1HøRMAJORZ
+CODE_SMELL
+p	java:S125‚"<This block of commented-out lines of code should be removed.(¥•ÖÏ8É‡‰Òš1HÏ¹RMAJORZ
+CODE_SMELL
+p	java:S125ô"<This block of commented-out lines of code should be removed.(ïá¿º8ş£¨à™1H¤¨RMAJORZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(Ò¦äÛ8‚¦Õš1HÊRMAJORZ
+CODE_SMELL
+c
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8‚¦Õš1HËRMINORZ
+CODE_SMELL
