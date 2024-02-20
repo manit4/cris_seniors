@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+        "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+        
+        <beans>
+        
+         <bean name="teaBean" class="org.cris.Tea"></bean>
+         <bean  name="resBean" class="org.cris.Restaurant">
+         	<property name="tea" ref="teaBean"></property>
+        </bean>
+        
+       
+        
+        
+        
+       <!--  <bean  name="resBean" class="org.cris.Restaurant">
+        	<constructor-arg value="Abc Chains"></constructor-arg>
+        </bean> -->
+        
+        
+         <!-- <bean  name="resBean" class="org.cris.Restaurant">
+        	<constructor-arg value="Abc Chains"></constructor-arg>
+        	<constructor-arg value="3"></constructor-arg>
+        </bean> -->
+        
+        
+        
+        
+        
+       <!--  <bean  name="resBean" class="org.cris.Restaurant">
+        	<property name="name" value="Himanshu Chains"></property>
+        	<property name="age" value="4"></property>
+        </bean> -->
+        
+        
+        
+        	<!-- <bean  name="resBean" class="org.cris.Restaurant"></bean> -->
+        	<!-- <bean  name="resBean2" class="org.cris.Restaurant"></bean>
+        	<bean  name="resBean3" class="org.cris.Restaurant"></bean>
+        	<bean  name="resBean4" class="org.cris.Restaurant"></bean> -->
+        </beans>

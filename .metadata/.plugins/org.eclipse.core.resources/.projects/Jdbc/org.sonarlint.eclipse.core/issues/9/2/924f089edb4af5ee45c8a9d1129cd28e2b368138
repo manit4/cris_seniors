@@ -1,26 +1,35 @@
 
+u	java:S125§"<This block of commented-out lines of code should be removed.(ÉÈ£”ıÿÿÿÿ8”»²Úš1H–¸RMAJORZ
+CODE_SMELL
 t
-java:S6437"6Revoke and change this password, as it is compromised.(Ş„Ï‹úÿÿÿÿ8†’åÙš1H§RBLOCKERZVULNERABILITY
-G
-java:S1220""Move this file to a named package.HŠ§RMINORZ
-CODE_SMELL
-t	java:S125""<This block of commented-out lines of code should be removed.(ÉÈ£”ıÿÿÿÿ8„ÇŠÚš1H³§RMAJORZ
-CODE_SMELL
-t	java:S125"<This block of commented-out lines of code should be removed.(ÉÈ£”ıÿÿÿÿ8”»²Úš1HÊ¨RMAJORZ
-CODE_SMELL
-t	java:S125J"<This block of commented-out lines of code should be removed.(ÉÈ£”ıÿÿÿÿ8®ĞÉÚš1HÔªRMAJORZ
-CODE_SMELL
-ƒ
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ºªº¡ûÿÿÿÿ8İ»¸Úš1H©RBLOCKERZBUG
-q	java:S106"9Replace this use of System.out or System.err by a logger.(ƒñš²üÿÿÿÿ8ÚŠÁÚš1Hè©RMAJORZ
-CODE_SMELL
-t	java:S125l"<This block of commented-out lines of code should be removed.(ÉÈ£”ıÿÿÿÿ8Øÿ€Úš1H‘§RMAJORZ
-CODE_SMELL
+java:S6437"6Revoke and change this password, as it is compromised.(Ş„Ï‹úÿÿÿÿ8†’åÙš1H¢¸RBLOCKERZVULNERABILITY
 |
-java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ş„Ï‹úÿÿÿÿ8†’åÙš1H§RBLOCKERZBUG
-c
-java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8ÓİÌÚš1Hé«RMINORZ
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ş„Ï‹úÿÿÿÿ8†’åÙš1H£¸RBLOCKERZBUG
+t	java:S125r"<This block of commented-out lines of code should be removed.(ÉÈ£”ıÿÿÿÿ8Øÿ€Úš1H¤¸RMAJORZ
+CODE_SMELL
+G
+java:S1220""Move this file to a named package.H¸¸RMINORZ
+CODE_SMELL
+u	java:S125”"<This block of commented-out lines of code should be removed.(ÉÈ£”ıÿÿÿÿ8„ÇŠÚš1H¹¸RMAJORZ
+CODE_SMELL
+g
+java:S1128	".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8£µŞÚš1HÅ¸RMINORZ
+CODE_SMELL
+t	java:S125*"<This block of commented-out lines of code should be removed.(ÉÈ£”ıÿÿÿÿ8®ĞÉÚš1HÇ¸RMAJORZ
 CODE_SMELL
 ˆ
-java:S1128	"TRemove this unused import 'javax.swing.text.html.HTMLDocument.HTMLReader.PreAction'.(µ³™î8ÓİÌÚš1Hë«RMINORZ
+java:S1128"TRemove this unused import 'javax.swing.text.html.HTMLDocument.HTMLReader.PreAction'.(µ³™î8ÓİÌÚš1HÚ¸RMINORZ
+CODE_SMELL
+c
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8ÓİÌÚš1HÜ¸RMINORZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(¼®´·8Ê•ùÚš1HŞ¸RMAJORZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(×Ô›¾8Ê•ùÚš1Hß¸RMAJORZ
+CODE_SMELL
+~
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(„ŒÂ˜8£µŞÚš1Hà¸RBLOCKERZBUG
+l	java:S106"9Replace this use of System.out or System.err by a logger.(É”³Ö8ç¼úÚš1Há¸RMAJORZ
+CODE_SMELL
+t	java:S125J"<This block of commented-out lines of code should be removed.(ÉÈ£”ıÿÿÿÿ8£µŞÚš1Hâ¸RMAJORZ
 CODE_SMELL
